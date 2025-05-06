@@ -1,4 +1,4 @@
-# Digit Recognition Using ANN on Keras MNIST Dataset
+# Handwritten Digit Recognition Using CNN
 ## Objective:
 Recognize handwritten digits using an Artificial Neural Network (ANN) on the MNIST dataset.
 
