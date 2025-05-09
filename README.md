@@ -84,7 +84,7 @@ The project requires the following Python libraries:
 * `tkinter` (usually comes with Python)
 
 # Also Checkout my previous project on ths topic
-### Digit Recognition Using ANN (Previous Version)
+## Digit Recognition Using ANN (Previous Version)
 ## Objective:
 Recognize digits using an Artificial Neural Network (ANN) on the MNIST dataset.
 
