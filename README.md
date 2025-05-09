@@ -109,7 +109,7 @@ Contributions are welcome! If you'd like to contribute to this project, please g
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/indranil143/Digit_Recognition/blob/main/LICENSE.txt) file for details.
 
 ## Acknowledgements
 
