@@ -68,7 +68,7 @@ Once the GUI application launches after running the notebook:
 ## 📁 Project Structure
 
 * `Handwritten Digit Recognition with CNN.ipynb`: The main Jupyter Notebook containing all the code for data loading, preprocessing, model building, training, evaluation, and the GUI implementation.
-* `digit_recognizer_peak_performance.keras` (Optional): This file will be generated (or is expected to be present if you're loading a pre-trained model) after successfully training and saving the model.
+* `MNIST_Digit_Recognition_Model.ipynb`: This is the old project.
 
 ## ✅ Requirements
 
@@ -84,8 +84,7 @@ The project requires the following Python libraries:
 * `tkinter` (usually comes with Python)
 
 # Also Checkout my previous project on ths topic
-
-# Digit Recognition Using ANN (Previous Version)
+### Digit Recognition Using ANN (Previous Version)
 ## Objective:
 Recognize digits using an Artificial Neural Network (ANN) on the MNIST dataset.
 
