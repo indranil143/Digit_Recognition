@@ -85,11 +85,9 @@ The project requires the following Python libraries:
 
 # Also Checkout my previous project on ths topic
 ## Digit Recognition Using ANN (Previous Version)
-## Objective:
-Recognize digits using an Artificial Neural Network (ANN) on the MNIST dataset.
 
-## Dataset:
-- MNIST: 70,000 grayscale images (28x28 pixels) of digits (0-9).
+- Objective: Recognize digits using an Artificial Neural Network (ANN) on the MNIST dataset.
+- Dataset: MNIST, 70,000 grayscale images (28x28 pixels) of digits (0-9).
 - Model:
   - Input Layer: Flatten 28x28 images to 1D.
   - Hidden Layer: Dense layer with 128 neurons, ReLU activation.
@@ -103,8 +101,7 @@ Recognize digits using an Artificial Neural Network (ANN) on the MNIST dataset.
   - Training Accuracy: 99%
   - Validation Accuracy: 97.6%
   - Test Accuracy: 97.45%
-- Conclusion:
-The model successfully recognizes digits with high accuracy.
+- Conclusion: The model successfully recognizes digits with high accuracy.
 
 ## Contributing
 
